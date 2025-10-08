@@ -6,6 +6,7 @@ Clickjacking vulnerability allows an attacker to trick users into performing acc
 # Well how do you find out this?
 1. scan with nikto
 `nikto -h https://[target].com/`
+
 result:
 
 <img width="588" height="25" alt="Screenshot 2025-10-08 045253" src="https://github.com/user-attachments/assets/c934af0d-ac71-4fc6-9d9a-d972af810aff" />
