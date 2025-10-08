@@ -12,3 +12,5 @@ result =>
 <img width="588" height="25" alt="Screenshot 2025-10-08 045253" src="https://github.com/user-attachments/assets/c934af0d-ac71-4fc6-9d9a-d972af810aff" />
 
 3. use poc to confirm
+
+<img width="1274" height="803" alt="clickjacking" src="https://github.com/user-attachments/assets/ccb424b8-a823-41ae-aa66-e9fcd0506d9d" />
