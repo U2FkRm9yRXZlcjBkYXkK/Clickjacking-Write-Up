@@ -1,5 +1,5 @@
 # Clickjacking-Write-Up
-simple write-up,  clickjack,  vulnerability 
+
 
 Clickjacking vulnerability allows an attacker to trick users into performing accidental clicks on a victim application/website interface by embedding the target page within an iframe on a deceptive page and controlling the layers/click location.
 
